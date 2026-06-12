@@ -19,3 +19,6 @@ A simple text-based Hangman Game built using Python.
 
 ```bash
 python hangman.py
+
+## Screenshot
+![Hangman Output](screenshots/hangman_output.png)
