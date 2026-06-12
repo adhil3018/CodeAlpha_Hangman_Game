@@ -15,11 +15,12 @@ A simple text-based Hangman Game built using Python.
 - Python
 - VS Code
 
+## How to Run
+
+python hangman.py
+
+
 ## Screenshot
 
 ![Hangman Output](screenshots/hangman_output.png)
 
-## How to Run
-
-```bash
-python hangman.py
